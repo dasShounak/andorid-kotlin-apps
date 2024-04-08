@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Shounak Das</string>
+    <string name="designation">App Developer</string>
+    <string name="contact">+91 62918 92819</string>
+    <string name="email">shounakdas19@gmail.com</string>
+    <string name="social">@potatoPayload</string>
+</resources>
