@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art_1">Primavera</string>
+    <string name="art_2">Mona Lisa</string>
+    <string name="art_3">The Ambassadors</string>
+    <string name="art_4">Judith Slaying Holofernes</string>
+    <string name="art_5">Christ in the Storm on the Sea of Galilee</string>
+    <string name="artist_1">Sandro Botticelli</string>
+    <string name="artist_2">Leonardo da Vinci</string>
+    <string name="artist_3">Hans Holbein the Younger</string>
+    <string name="artist_4">Artemisia Gentileschi</string>
+    <string name="artist_5">Rembrandt van Rijn</string>
+    <string name="year_1">1482</string>
+    <string name="year_2">1503</string>
+    <string name="year_3">1533</string>
+    <string name="year_4">1610</string>
+    <string name="year_5">1633</string>
+    <string name="button_next">Next</string>
+    <string name="button_prev">Previous</string>
+</resources>
